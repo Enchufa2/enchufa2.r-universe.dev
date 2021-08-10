@@ -1,0 +1,46 @@
+[
+  {
+    "package": "bmetr",
+    "url": "https://github.com/Enchufa2/bmetr"
+  },
+  {
+    "package": "bspm",
+    "url": "https://github.com/Enchufa2/bspm"
+  },
+  {
+    "package": "flexiblas",
+    "url": "https://github.com/Enchufa2/r-flexiblas"
+  },
+  {
+    "package": "RcppXPtrUtils",
+    "url": "https://github.com/Enchufa2/RcppXPtrUtils"
+  },
+  {
+    "package": "constants",
+    "url": "https://github.com/r-quantities/constants"
+  },
+  {
+    "package": "errors",
+    "url": "https://github.com/r-quantities/errors"
+  },
+  {
+    "package": "quantities",
+    "url": "https://github.com/r-quantities/quantities"
+  },
+  {
+    "package": "units",
+    "url": "https://github.com/r-quantities/units"
+  },
+  {
+    "package": "simmer",
+    "url": "https://github.com/r-simmer/simmer"
+  },
+  {
+    "package": "simmer.bricks",
+    "url": "https://github.com/r-simmer/simmer.bricks"
+  },
+  {
+    "package": "simmer.plot",
+    "url": "https://github.com/r-simmer/simmer.plot"
+  }
+]
