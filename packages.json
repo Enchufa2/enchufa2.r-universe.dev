@@ -1,11 +1,15 @@
 [
   {
-    "package": "bmetr",
-    "url": "https://github.com/Enchufa2/bmetr"
+    "package": "bspm",
+    "url": "https://enchufa2.github.io/bspm/"
   },
   {
-    "package": "bspm",
-    "url": "https://github.com/Enchufa2/bspm"
+    "package": "rspm",
+    "url": "https://enchufa2.github.io/rspm/"
+  },
+  {
+    "package": "bmetr",
+    "url": "https://github.com/Enchufa2/bmetr"
   },
   {
     "package": "flexiblas",
