@@ -1,11 +1,11 @@
 [
   {
     "package": "bspm",
-    "url": "https://enchufa2.github.io/bspm/"
+    "url": "https://github.com/cran4linux/bspm"
   },
   {
     "package": "rspm",
-    "url": "https://enchufa2.github.io/rspm/"
+    "url": "https://github.com/cran4linux/rspm"
   },
   {
     "package": "bmetr",
